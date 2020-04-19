@@ -1,3 +1,11 @@
+# jmding8's fork of Marlin
+
+For use with modified Ender 3.
+Mesh Bed Leveling with BLTouch on Zmin pin
+Hermera extruder
+Build volume 224x 220y 270z
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
